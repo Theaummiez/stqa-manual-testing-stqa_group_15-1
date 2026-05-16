@@ -23,7 +23,7 @@ Hệ thống cần kiểm thử: **Quản lý mượn sách Thư viện ABC** �
 |---|------|-----------|---------|
 | 1 | | | Nhóm trưởng |
 | 2 | | | Thành viên |
-| 3 | | | Thành viên |
+| 3 |ES.251002 |Tomy Tavanae-Bouteilley | Thành viên |
 | 4 | | | Thành viên |
 
 ---
